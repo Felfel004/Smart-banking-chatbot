@@ -63,6 +63,6 @@ The project focuses on:
 Clone the repo and install required packages:
 
 ```bash
-git clone https://github.com/yourusername/banking77-intent-classification.git
+git clone https://github.com/Felfel004/Smart-banking-chatbot.git
 cd banking77-intent-classification
 pip install -r requirements.txt
