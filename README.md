@@ -60,9 +60,8 @@ The project focuses on:
 
 ##  Installation
 
-Clone the repo and install required packages:
+Clone the repo :
 
 ```bash
 git clone https://github.com/Felfel004/Smart-banking-chatbot.git
-cd banking77-intent-classification
-pip install -r requirements.txt
+
